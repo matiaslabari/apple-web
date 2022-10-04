@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.seccion_dark{
+    color: white;
+    background-color: black;
+    margin: auto 0;
+}
+
+.seccion_white{
+    color: black;
+    background-color: #f5f5f7;
+}
+.contenedor{
+width: 736px;
+margin: auto;
+}
+
+.alineacion_central{
+    text-align: center;
+}
+
+.texto_destacado1{
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.texto_destacado2{
+    font-size: 17px;
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;;
+    margin-bottom: 20px;
+}
+
+.subdestacado{
+    font-size: 14px;
+    line-height: 17px;
+    color: #78787c;
+    margin-bottom: 20px;
+}
+
+.links{
+    font-size: 18px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.links:hover{
+    text-decoration: underline;
+}
+
+.espaciado_inferior{
+    padding-bottom: 80px;
+}
+
+.espaciado_superior{
+    padding-top: 65px;
+}
+
+.links_white{
+    color: white;
+    text-decoration: none;
+}
+
+.links_white:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.texto_pie_pagina{
+    color: #78787c;
+}
+
+.alineacion_izquierda{
+    text-align: left;
+}
+
+.espaciado_pie_pagina{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.tipografia{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
